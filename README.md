@@ -57,11 +57,11 @@ This repository contains the code and final report for Machine Learning I course
 ## Project Structure
 
 src/
-- model.py           # MobileNetV3 + BiLSTM + Attention model definition
-- train.py           # Training loop, learning rate scheduling, and training logic
-- preprocess.py      # IAM dataset parsing, filtering, and preprocessing
-- data_generator.py  # Custom tf.keras Sequence generator
-- utils.py           # Training tracker, evaluation metrics, and visualizations  
+├── model.py           # MobileNetV3 + BiLSTM + Attention model definition
+├── train.py           # Training loop, learning rate scheduling, and training logic
+├── preprocess.py      # IAM dataset parsing, filtering, and preprocessing
+├── data_generator.py  # Custom tf.keras Sequence generator
+└── utils.py           # Training tracker, evaluation metrics, and visualizations
 
 ---
 
@@ -73,9 +73,10 @@ src/
    cd mobile_attention_OCR
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
-3. Prepare IAM dataset under:
+4. Prepare IAM dataset under:
    /content/drive/MyDrive/iam_data/
 
 ## Training
