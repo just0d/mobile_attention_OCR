@@ -58,9 +58,13 @@ This repository contains the code and final report for Machine Learning I course
 
 src/
 ├── model.py          # MobileNetV3 + BiLSTM + Attention model definition
+
 ├── train.py          # Training loop, LR scheduling, callbacks
+
 ├── preprocess.py     # IAM dataset parsing and filtering
+
 ├── data_generator.py # Custom tf.keras Sequence generator
+
 ├── utils.py          # Tracking, metrics, and visualizations
 
 ---
