@@ -1,0 +1,6 @@
+tensorflow>=2.9.0
+opencv-python
+numpy
+pandas
+scikit-learn
+editdistance
