@@ -104,21 +104,16 @@ Created by students of Hanyang University, Department of Data Science.
 
 ## References
 
-Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. 
-    arXiv. Retrieved from https://arxiv.org/abs/1409.0473
+Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv. Retrieved from https://arxiv.org/abs/1409.0473
 
-Howard, A., Sandler, M., Chu, G., et al. (2019). Searching for MobileNetV3. arXiv. Retrieved from 
-    https://arxiv.org/abs/1905.02244
+Howard, A., Sandler, M., Chu, G., et al. (2019). Searching for MobileNetV3. arXiv. Retrieved from https://arxiv.org/abs/1905.02244
 
-Shi, B., Bai, X., & Yao, C. (2017). An end-to-end trainable neural OCR approach. SCITEPRESS – Science and Technology 
-    Publications. Retrieved from https://doi.org/10.5220/0006123703210328
-Kaiyue Wen, Zhiyuan Li, Jason Wang, David Hall, Percy Liang, Tengyu Ma.(2024).Understanding Warmup-Stable-Decay 
-    Learning Rates: A River Valley Loss Landscape Perspective. Retrieved from https://arxiv.org/abs/2410.05192
-Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L. C. (2018). "MobileNetV2: Inverted Residuals and Linear 
-    Bottlenecks." Proceedings of the IEEE conference on computer vision and pattern recognition. Retrieved from
-    https://arxiv.org/pdf/1905.02244
-Marti, U. V., & Bunke, H. (2002). "The IAM-database: an English sentence database for offline handwriting 
-    recognition." International Journal on Document Analysis and Recognition. Retrieved from
-    https://link.springer.com/article/10.1007/s100320200071
+Shi, B., Bai, X., & Yao, C. (2017). An end-to-end trainable neural OCR approach. SCITEPRESS – Science and Technology Publications. Retrieved from https://doi.org/10.5220/0006123703210328
+
+Kaiyue Wen, Zhiyuan Li, Jason Wang, David Hall, Percy Liang, Tengyu Ma.(2024).Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective. Retrieved from https://arxiv.org/abs/2410.05192
+
+Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L. C. (2018). "MobileNetV2: Inverted Residuals and Linear Bottlenecks." Proceedings of the IEEE conference on computer vision and pattern recognition. Retrieved from https://arxiv.org/pdf/1905.02244
+
+Marti, U. V., & Bunke, H. (2002). "The IAM-database: an English sentence database for offline handwriting recognition." International Journal on Document Analysis and Recognition. Retrieved from https://link.springer.com/article/10.1007/s100320200071
 
 ---
