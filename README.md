@@ -1,4 +1,3 @@
-# mobile_attention_OCR
 # Handwritten Name Recognition - Lightweight CRNN for Mobile Devices
 
 This repository contains the code and final report for Machine Learning I course project: a compact CRNN-based model for recognizing handwritten names. The model is optimized for mobile deployment by combining MobileNetV3 with a BiLSTM decoder and multi-head attention.
