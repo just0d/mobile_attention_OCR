@@ -56,12 +56,14 @@ This repository contains the code and final report for Machine Learning I course
 
 ## Project Structure
 
+```bash
 src/
-├── model.py           # MobileNetV3 + BiLSTM + Attention model definition
-├── train.py           # Training loop, learning rate scheduling, and training logic
-├── preprocess.py      # IAM dataset parsing, filtering, and preprocessing
-├── data_generator.py  # Custom tf.keras Sequence generator
-└── utils.py           # Training tracker, evaluation metrics, and visualizations
+├── model.py          # MobileNetV3 + BiLSTM + Attention model definition
+├── train.py          # Training loop, LR scheduling, callbacks
+├── preprocess.py     # IAM dataset parsing and filtering
+├── data_generator.py # Custom tf.keras Sequence generator
+├── utils.py          # Tracking, metrics, and visualizations
+```
 
 ---
 
